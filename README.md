@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>AI Undergraduate · Computer Vision &amp; Applied AI</strong><br />
-  Can Tho, Vietnam · FPT University · Expected graduation: 2027
+  Can Tho, Vietnam · FPT University
 </p>
 
 ### Hi, I'm Chanh
