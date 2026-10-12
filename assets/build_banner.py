@@ -16,7 +16,7 @@ pixels = base.load()
 for y in range(H):
     for x in range(W):
         glow = math.exp(-(((x-970)/330)**2 + ((y-190)/250)**2))
-        pixels[x, y] = (int(16+21*glow), int(18+9*glow), int(35+44*glow))
+        pixels[x, y] = (int(20+24*glow), int(17+8*glow), int(43+43*glow))
 grid = ImageDraw.Draw(base)
 for x in range(0, W, 40):
     grid.line((x, 0, x, H), fill=(32, 31, 53))
@@ -30,15 +30,18 @@ for i in range(48):
     d = ImageDraw.Draw(frame)
     cyan, purple, pink = '#67e8f9', '#b8a0ff', '#f472b6'
     # One shared left edge and measured text keep all labels aligned.
-    d.rounded_rectangle((64, 44, 334, 76), radius=16, fill='#142d3e', outline='#31596c')
+    d.rounded_rectangle((64, 44, 312, 76), radius=16, fill='#20253f', outline='#3c647b')
     pulse = int(170+70*(1+math.sin(phase))/2)
     d.ellipse((79, 56, 87, 64), fill=(70, pulse, 235))
-    d.text((99, 50), 'COMPUTER VISION / APPLIED AI', font=font(13, True), fill=cyan)
-    d.text((64, 103), 'Nguyen Minh Chanh', font=font(51, True), fill='#f6f4ff')
+    d.text((99, 50), 'WELCOME TO MY GITHUB', font=font(13, True), fill=cyan)
+    name_font = font(55, True)
+    d.text((64, 103), 'Nguyen Minh Chanh', font=name_font, fill='#f6f4ff')
+    name_end = 64 + d.textlength('Nguyen Minh Chanh', font=name_font)
+    d.text((name_end, 103), '.', font=name_font, fill=pink)
     d.text((64, 171), 'JayC  /  AI Undergraduate', font=font(22, True), fill=purple)
-    d.text((64, 221), 'Building real-world intelligent systems.', font=font(23), fill='#d6d4f1')
+    d.text((64, 221), 'Computer Vision & Applied AI', font=font(25), fill='#d6d4f1')
     d.text((64, 263), 'FPT University  ·  Can Tho, Vietnam', font=font(17), fill='#a4aec5')
-    for x, width, label, color, bg in [(64, 105, 'AI / ML', purple, '#30254f'), (181, 165, 'COMPUTER VISION', cyan, '#163747'), (358, 105, 'EDGE AI', pink, '#3c2442')]:
+    for x, width, label, color, bg in [(64, 105, 'AI / ML', purple, '#30254f'), (181, 165, 'COMPUTER VISION', cyan, '#163747'), (358, 105, 'DATA', pink, '#3c2442')]:
         d.rounded_rectangle((x, 321, x+width, 353), radius=9, fill=bg)
         d.text((x+width/2, 337), label, anchor='mm', font=font(12, True), fill=color)
     # Orbiting nodes around a fixed terminal.
@@ -60,16 +63,24 @@ for i in range(48):
     d.line((810, 142, 1088, 142), fill='#33334e')
     for x, color in [(833, '#fb7185'), (851, '#fbbf24'), (869, '#34d399')]:
         d.ellipse((x-4, 117, x+4, 125), fill=color)
-    d.text((833, 158), 'focus = [', font=font(16, mono=True), fill=purple)
-    d.text((851, 191), '"vision",', font=font(16, mono=True), fill=cyan)
-    d.text((851, 224), '"research", "build"', font=font(16, mono=True), fill=pink)
+    d.text((833, 158), 'ideas = [', font=font(16, mono=True), fill=purple)
+    d.text((851, 191), '"learn",', font=font(16, mono=True), fill=cyan)
+    d.text((851, 224), '"build", "explore"', font=font(16, mono=True), fill=pink)
     d.text((833, 257), ']', font=font(16, mono=True), fill='#e2e8f0')
     if i < 24:
         d.rectangle((851, 260, 861, 279), fill=cyan)
+    for sx, sy, color in [(1090, 68, '#fbbf24'), (812, 340, purple)]:
+        arm = 5 + 2 * math.sin(phase)
+        d.line((sx-arm, sy, sx+arm, sy), fill=color, width=2)
+        d.line((sx, sy-arm, sx, sy+arm), fill=color, width=2)
     for x in range(64, 1137):
         t=(x-64)/1072
         d.line((x, 383, x, 385), fill=(int(34+210*t), int(211-97*t), int(238-56*t)))
-    frames.append(frame)
+    mask = Image.new('L', (W, H), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, W-1, H-1), radius=26, fill=255)
+    rounded = Image.new('RGB', (W, H), '#0d1117')
+    rounded.paste(frame, (0, 0), mask)
+    frames.append(rounded)
 
 # A shared palette avoids color flicker between frames.
 palette = frames[0].quantize(colors=128)

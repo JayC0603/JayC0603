@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="assets/ryme-header.svg" alt="Nguyen Minh Chanh — Computer Vision and Multimodal AI" width="100%" />
+  <img src="assets/banner.gif" alt="Nguyen Minh Chanh — animated violet banner with code window and orbiting lights" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:ChanhNMCE180818@fpt.edu.vn">Email</a> &nbsp; · &nbsp;
-  <a href="https://github.com/JayC0603?tab=repositories">Projects</a> &nbsp; · &nbsp;
-  <a href="#research--publications">Research</a>
+  <a href="https://github.com/JayC0603?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" height="28" /></a>
+  <a href="mailto:ChanhNMCE180818@fpt.edu.vn"><img src="https://img.shields.io/badge/Email_me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" height="28" /></a>
 </p>
 
 <p align="center">
-  AI Undergraduate · Can Tho, Vietnam · Expected graduation: 2027
+  <strong>AI Undergraduate · Computer Vision &amp; Applied AI</strong><br />
+  Can Tho, Vietnam · FPT University · Expected graduation: 2027
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="20" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="20" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="20" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="20" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="20" />
 </p>
 
 ## Research highlights
@@ -260,5 +270,5 @@ Interested in computer vision, multimodal AI and research collaboration.
 ---
 
 <p align="center">
-  <sub>Sleek header &amp; toolkit adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · Customized for JayC</sub>
+  <sub>Toolkit adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · Custom animated banner &amp; project cards for JayC</sub>
 </p>
