@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Nguyen Minh Chanh — Computer Vision and Applied AI" width="100%" />
+  <img src="assets/banner.gif" alt="Nguyen Minh Chanh — animated Computer Vision and Applied AI banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JayC0603?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="mailto:ChanhNMCE180818@fpt.edu.vn"><img src="https://img.shields.io/badge/Email_me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nguyen Minh Chanh" /></a>
+  <a href="https://github.com/JayC0603?tab=repositories"><img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" height="28" /></a>
+  <a href="mailto:ChanhNMCE180818@fpt.edu.vn"><img src="https://img.shields.io/badge/Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nguyen Minh Chanh" height="28" /></a>
 </p>
-
-<h1 align="center">Nguyen Minh Chanh <sub>· JayC</sub></h1>
 
 <p align="center">
   <strong>AI Undergraduate · Computer Vision &amp; Applied AI</strong><br />
@@ -15,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="20" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="20" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="20" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="20" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="20" />
 </p>
 
 ## About me
