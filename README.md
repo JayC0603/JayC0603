@@ -1,26 +1,22 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Nguyen Minh Chanh — animated Computer Vision and Applied AI banner" width="100%" />
+  <img src="assets/ryme-header.svg" alt="Nguyen Minh Chanh — Computer Vision and Multimodal AI" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JayC0603?tab=repositories"><img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" height="28" /></a>
-  <a href="mailto:ChanhNMCE180818@fpt.edu.vn"><img src="https://img.shields.io/badge/Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nguyen Minh Chanh" height="28" /></a>
+  <a href="mailto:ChanhNMCE180818@fpt.edu.vn">Email</a> &nbsp; · &nbsp;
+  <a href="https://github.com/JayC0603?tab=repositories">Projects</a> &nbsp; · &nbsp;
+  <a href="#research--publications">Research</a>
 </p>
 
 <p align="center">
-  <strong>AI Undergraduate · Computer Vision &amp; Applied AI</strong><br />
-  Can Tho, Vietnam · FPT University · Expected graduation: 2027
+  AI Undergraduate · Can Tho, Vietnam · Expected graduation: 2027
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="20" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="20" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="20" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="20" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="20" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="20" />
-</p>
+## Research highlights
+
+- **FETC 2025 · Co-author** — Comparative study of mBART-50 and NLLB for low-resource English–Vietnamese translation.
+- **Outstanding Student in Scientific Research · April 2026** — FPT University.
+- **Research Festival 2026 · Finalist, Team KPC** — Multimodal IoT-based durian quality assessment using vision and acoustic analysis on Edge AI devices.
 
 ## About me
 
@@ -35,7 +31,18 @@ My portfolio spans detection and tracking, deepfake classification, speech proce
 | **Engineering** | Python, FastAPI, Docker, Git, Raspberry Pi; web application projects |
 | **Research** | Low-resource machine translation; FETC 2025 co-authored paper; interests in computer vision and reinforcement learning |
 
-## Selected work
+## Selected projects
+
+<a href="https://github.com/JayC0603/Neurix"><img src="assets/project-neurix.svg" alt="Neurix — multimodal durian quality assessment on Raspberry Pi" width="100%" /></a>
+
+<a href="https://github.com/JayC0603/YOLO-VehicleVision-Advanced-Vehicle-Detection-and-Tracking-System"><img src="assets/project-vehiclevision.svg" alt="VehicleVision — YOLO vehicle detection and tracking" width="100%" /></a>
+
+<a href="https://github.com/JayC0603/VoxScribe"><img src="assets/project-voxscribe.svg" alt="VoxScribe — speech transcription and streaming experiments" width="100%" /></a>
+
+<details>
+<summary><strong>More project details & contributions</strong></summary>
+
+### Project contributions
 
 ### 🍈 [Neurix — Multimodal Edge AI](https://github.com/JayC0603/Neurix)
 
@@ -61,57 +68,11 @@ Contributed to neural-network experiments for deepfake classification, model eva
 
 **Stack:** Python · PyTorch · TensorFlow / Keras · OpenCV · Flask
 
-## Experience
-
-**AI Intern (OJT) · FPT Software, Quy Nhon**  
-*January 7 – April 11, 2026*
-
-- Developed and supported AI pipelines involving computer vision and VLM / LLM models.
-- Applied homography transformations for spatial mapping and multi-camera scenarios.
-- Implemented ReID techniques for cross-camera object tracking.
-
-**Technical Employee · NFT BY VIETKHOA**  
-*2023 – November 2025*
-
-- Troubleshot mobile devices, laptops and VR headsets, and installed and maintained software across platforms.
-- Worked with customers to diagnose technical issues and helped document support procedures.
-
-## Research & publications
-
-**Low-Resource English-Vietnamese Translation: A Comparative Study of mBART-50 and NLLB**  
-*Co-author · Published in the proceedings of the 2025 1st FPT International Conference on Emerging Trends in Computing (FETC 2025)*
-
-A comparative study of mBART-50 and NLLB for low-resource English–Vietnamese machine translation.
-
-**Authors:** Nguyen Vu Huy, Nguyen Thi Bich Tuyen, Dang Hoang Kiet, **Nguyen Minh Chanh**, Dinh Van Anh Khoi, Nguyen Khanh Trinh, and Nguyen Dinh Vinh.
-
-## Education & recognition
-
-**Bachelor of Artificial Intelligence · FPT University**  
-*2022 – present · Expected graduation: 2027*
-
-- **Outstanding Student in Scientific Research (Sinh viên xuất sắc trong nghiên cứu khoa học)** — FPT University, April 2026; recognized for the research work published in the FETC 2025 proceedings.
-- **Research Festival 2026 Finalist · Team KPC · Team Member** — Research project: *A Multimodal IoT-Based Durian Quality Assessment System Using Vision and Acoustic Analysis on Edge AI Devices*.
-- **Consolation Prize** — FPTU Can Tho Olympic AI Competition, May 2026.
-- **Two Second Prizes** — Vovinam Competition, March 2023.
-
-<details>
-<summary><strong>Certifications & community activities</strong></summary>
-
-| Certification | Institution | Completed |
-| :--- | :--- | :--- |
-| IBM Full Stack Software Developer | IBM | January 2025 |
-| Software Development Lifecycle | University of Minnesota | September 2024 |
-| Ethics in the Age of AI | LearnQuest | May 2024 |
-| AI Foundations for Everyone: A Practical Intro for Beginners | IBM | February 2024 |
-| Academic Skills for University Success: Capstone | The University of Sydney | July 2023 |
-
-**WEGO Volunteer Club · May 2023 – December 2024**  
-Participated in the *Hat Ngoc Tinh* (Seeds of Love) project, preparing free meals and supporting underprivileged children.
-
-Outside of tech: reading, chess and Chinese chess.
-
 </details>
+
+## Core toolkit
+
+<img src="assets/ryme-skills.svg" alt="Python, PyTorch, TensorFlow, OpenCV, Pandas, FastAPI, Docker and Edge AI" width="100%" />
 
 ## 🎨 Technologies across my projects
 
@@ -215,6 +176,61 @@ Docker Compose · GPIO Zero · lgpio · RPi.GPIO · I²C / smbus2 · RPLCD · so
 
 </details>
 
+## Experience
+
+**AI Intern (OJT) · FPT Software, Quy Nhon**<br />
+*January 7 – April 11, 2026*
+
+- Developed and supported AI pipelines involving computer vision and VLM / LLM models.
+- Applied homography transformations for spatial mapping and multi-camera scenarios.
+- Implemented ReID techniques for cross-camera object tracking.
+
+**Technical Employee · NFT BY VIETKHOA**<br />
+*2023 – November 2025*
+
+- Troubleshot mobile devices, laptops and VR headsets, and installed and maintained software across platforms.
+- Worked with customers to diagnose technical issues and helped document support procedures.
+
+## Research & publications
+
+**Low-Resource English-Vietnamese Translation: A Comparative Study of mBART-50 and NLLB**<br />
+*Co-author · Published in the proceedings of the 2025 1st FPT International Conference on Emerging Trends in Computing (FETC 2025)*
+
+A comparative study of mBART-50 and NLLB for low-resource English–Vietnamese machine translation.
+
+**Authors:** Nguyen Vu Huy, Nguyen Thi Bich Tuyen, Dang Hoang Kiet, **Nguyen Minh Chanh**, Dinh Van Anh Khoi, Nguyen Khanh Trinh, and Nguyen Dinh Vinh.
+
+## Education & recognition
+
+**Bachelor of Artificial Intelligence · FPT University**<br />
+*2022 – present · Expected graduation: 2027*
+
+- **Outstanding Student in Scientific Research (Sinh viên xuất sắc trong nghiên cứu khoa học)** — FPT University, April 2026; recognized for the research work published in the FETC 2025 proceedings.
+- **Research Festival 2026 Finalist · Team KPC · Team Member** — Research project: *A Multimodal IoT-Based Durian Quality Assessment System Using Vision and Acoustic Analysis on Edge AI Devices*.
+- **Consolation Prize** — FPTU Can Tho Olympic AI Competition, May 2026.
+- **Two Second Prizes** — Vovinam Competition, March 2023.
+
+<details>
+<summary><strong>Certifications & community activities</strong></summary>
+
+| Certification | Institution | Completed |
+| :--- | :--- | :--- |
+| IBM Full Stack Software Developer | IBM | January 2025 |
+| Software Development Lifecycle | University of Minnesota | September 2024 |
+| Ethics in the Age of AI | LearnQuest | May 2024 |
+| AI Foundations for Everyone: A Practical Intro for Beginners | IBM | February 2024 |
+| Academic Skills for University Success: Capstone | The University of Sydney | July 2023 |
+
+**WEGO Volunteer Club · May 2023 – December 2024**<br />
+Participated in the *Hat Ngoc Tinh* (Seeds of Love) project, preparing free meals and supporting underprivileged children.
+
+Outside of tech: reading, chess and Chinese chess.
+
+</details>
+
+<details>
+<summary><strong>Browse all nine projects</strong></summary>
+
 ## 🚀 Project portfolio
 
 | Project | Explore |
@@ -233,17 +249,16 @@ Docker Compose · GPIO Zero · lgpio · RPi.GPIO · I²C / smbus2 · RPLCD · so
   <a href="https://github.com/JayC0603?tab=repositories">✨ See all my repositories →</a>
 </p>
 
+</details>
+
+## Let's connect
+
+Interested in computer vision, multimodal AI and research collaboration.
+
+**[ChanhNMCE180818@fpt.edu.vn](mailto:ChanhNMCE180818@fpt.edu.vn)** · **[GitHub @JayC0603](https://github.com/JayC0603)**
+
 ---
 
-## Contact
-
-For AI internships, research collaboration and project discussions:
-
-- **Email:** [ChanhNMCE180818@fpt.edu.vn](mailto:ChanhNMCE180818@fpt.edu.vn)
-- **GitHub:** [@JayC0603](https://github.com/JayC0603)
-- **Location:** Can Tho, Vietnam
-
 <p align="center">
-  <strong>From model experiments to real-world AI systems.</strong><br />
-  <sub>Nguyen Minh Chanh · Computer Vision &amp; Applied AI</sub>
+  <sub>Sleek header &amp; toolkit adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · Customized for JayC</sub>
 </p>

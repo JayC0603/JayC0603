@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="238" viewBox="0 0 800 238">
+  <style>
+    text { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    
+    
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="14" ry="14"/>
+
+  <!-- Accent bar -->
+  <rect x="56" y="74" width="56" height="3" rx="1.5" fill="#67e8f9"/>
+
+  <!-- Heading -->
+  <text x="56" y="56" fill="#f0f6fc" font-size="30" font-weight="700" letter-spacing="-0.02em">Stack.</text>
+
+  <!-- Sub-line -->
+  <text x="56" y="104" fill="#a5aec0" font-size="13" font-weight="500" letter-spacing="0.02em">8 tools I reach for daily.</text>
+
+  <!-- Pill rows -->
+  <g class="chip0">
+        <rect x="84" y="134" width="75" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="121.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">PYTHON</text>
+      </g>
+  <g class="chip1">
+        <rect x="169" y="134" width="83" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="210.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">PYTORCH</text>
+      </g>
+  <g class="chip2">
+        <rect x="262" y="134" width="106" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="315" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">TENSORFLOW</text>
+      </g>
+  <g class="chip3">
+        <rect x="378" y="134" width="75" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="415.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">OPENCV</text>
+      </g>
+  <g class="chip4">
+        <rect x="463" y="134" width="75" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="500.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">PANDAS</text>
+      </g>
+  <g class="chip5">
+        <rect x="548" y="134" width="83" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="589.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">FASTAPI</text>
+      </g>
+  <g class="chip6">
+        <rect x="641" y="134" width="75" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="678.5" y="148" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">DOCKER</text>
+      </g>
+  <g class="chip7">
+        <rect x="359" y="172" width="83" height="28" rx="14" fill="#0d1117" stroke="#a5aec0" stroke-width="1" stroke-opacity="0.55"/>
+        <text x="400.5" y="186" fill="#f0f6fc" font-family="ui-monospace, monospace" font-size="13" letter-spacing="0.8" text-anchor="middle" dominant-baseline="middle">EDGE AI</text>
+      </g>
+</svg>
