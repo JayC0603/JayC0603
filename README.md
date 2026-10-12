@@ -20,7 +20,9 @@ I build AI systems that connect **vision, audio and language** with real-world a
   <img src="assets/ai-pipeline.gif" alt="Animated pipeline: vision and audio to inference and Edge AI" width="100%" />
 </p>
 
-**Python / PyTorch / OpenCV / FastAPI / Docker / Raspberry Pi**
+<p align="center">
+  <img src="assets/toolkit-motion.gif" alt="Moving technology badges: PyTorch, TensorFlow, Python, OpenCV, FastAPI, Docker, Pandas and Raspberry Pi" width="100%" />
+</p>
 
 ### Selected projects
 
