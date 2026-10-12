@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Minh Chanh — Computer Vision and Applied AI</title>
+  <desc id="desc">A dark violet banner with colorful orbital shapes, a code window and cyan, purple and pink accents.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14132c"/><stop offset="1" stop-color="#251345"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c4b5fd" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+  <ellipse cx="950" cy="200" rx="330" ry="290" fill="url(#glow)"/>
+  <path d="M0 397H1200" stroke="url(#accent)" stroke-width="6"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="64" y="56" width="205" height="30" rx="15" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".4"/>
+    <circle cx="82" cy="71" r="4" fill="#22d3ee"/>
+    <text x="97" y="76" fill="#67e8f9" font-size="12" letter-spacing="2">WELCOME TO MY GITHUB</text>
+    <text x="60" y="159" fill="#faf5ff" font-size="55" font-weight="800" letter-spacing="-2">Nguyen Minh Chanh<tspan fill="#f472b6">.</tspan></text>
+    <text x="65" y="199" fill="#a78bfa" font-size="22" font-weight="600">JayC / AI Undergraduate</text>
+    <text x="65" y="246" fill="#c4b5fd" font-size="25">Computer Vision &amp; Applied AI</text>
+    <text x="65" y="281" fill="#a5a2bf" font-size="17">FPT University · Can Tho, Vietnam</text>
+    <g font-size="12" font-weight="600" text-anchor="middle">
+      <rect x="65" y="317" width="96" height="30" rx="10" fill="#8b5cf6" fill-opacity=".2"/><text x="113" y="337" fill="#ddd6fe">AI / ML</text>
+      <rect x="171" y="317" width="140" height="30" rx="10" fill="#06b6d4" fill-opacity=".15"/><text x="241" y="337" fill="#67e8f9">COMPUTER VISION</text>
+      <rect x="321" y="317" width="102" height="30" rx="10" fill="#ec4899" fill-opacity=".15"/><text x="372" y="337" fill="#f9a8d4">DATA</text>
+    </g>
+  </g>
+  <g transform="translate(815 93)">
+    <ellipse cx="128" cy="104" rx="175" ry="117" transform="rotate(-27 128 104)" fill="none" stroke="#a78bfa" stroke-opacity=".3"/>
+    <ellipse cx="128" cy="104" rx="175" ry="117" transform="rotate(32 128 104)" fill="none" stroke="#22d3ee" stroke-opacity=".2"/>
+    <rect x="0" y="20" width="260" height="192" rx="18" fill="#17162d" stroke="#a78bfa" stroke-opacity=".6"/>
+    <path d="M0 61H260" stroke="#a78bfa" stroke-opacity=".2"/>
+    <circle cx="23" cy="41" r="5" fill="#fb7185"/><circle cx="41" cy="41" r="5" fill="#fbbf24"/><circle cx="59" cy="41" r="5" fill="#34d399"/>
+    <g font-family="Consolas, monospace" font-size="16">
+      <text x="23" y="95" fill="#a78bfa">ideas <tspan fill="#e2e8f0">= [</tspan></text>
+      <text x="42" y="125" fill="#67e8f9">"learn",</text>
+      <text x="42" y="153" fill="#f9a8d4">"build", "explore"</text>
+      <text x="23" y="182" fill="#e2e8f0">]</text>
+    </g>
+    <circle cx="286" cy="63" r="12" fill="#22d3ee"/>
+    <circle cx="-27" cy="155" r="8" fill="#f472b6"/>
+    <path d="M221 -19v20m-10-10h20" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+    <path d="M62 236v14m-7-7h14" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
